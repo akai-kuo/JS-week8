@@ -812,6 +812,7 @@ body {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   color: #c72424;
+  display: none;
 }
 
 @media (max-width: 767px) {
